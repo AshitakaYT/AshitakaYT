@@ -2,7 +2,7 @@
 typedef struct  sstudent
 {
   char          *name = "Augustin Cousin";
-  unsigned int  age = 23;
+  unsigned int  age = 24;
   char          **languages = {"French", "English", "Japanese"};
   char          **learning = {"Coding", "Japanese", "Mixed Martial Arts", "Drawing", "Guitar"};
   void          *relationships = NULL);
